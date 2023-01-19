@@ -99,7 +99,7 @@ _Italic : \_(Italic을 적용할 문장)\__<br>
 
 # 링크(Link)
 - 기본적인 출력 :  
-<a herf="https://www.google.com/">Google1</a>
+    <a herf="https://www.google.com/">Google1</a>
     ```md
     <a herf="https://www.google.com/">Google</a> 
     ```
@@ -109,7 +109,7 @@ _Italic : \_(Italic을 적용할 문장)\__<br>
     ```
 
 - title 값 존재시 :  
-<a herf="https://www.naver.com/" title="Naver">Naver1</a>
+    <a herf="https://www.naver.com/" title="Naver">Naver1</a>
     ```md
     <a herf="https://www.naver.com/" title="Naver">Naver1</a>  
     ````
